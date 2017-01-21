@@ -1,0 +1,26 @@
+{
+    "domains": {
+        "lis.ly.govapi.tw": [
+            [
+                "CNAME",
+                "yunlin-lo-397071.middle2.me"
+            ]
+        ],
+        "lci.ly.govapi.tw": [
+            [
+                "CNAME",
+                "yunlin-lo-397071.middle2.me"
+            ]
+        ],
+        "misq.ly.govapi.tw": [
+            [
+                "CNAME",
+                "yunlin-lo-397071.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/ronnywang/misq.ly.govapi.tw",
+    "maintainer": [
+        "ronnywang@gmail.com"
+    ]
+}

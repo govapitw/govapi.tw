@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "data.govapi.tw": [
+            [
+                "CNAME",
+                "kinmen-cheng-466929.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/ronnywang/data.govapi.tw",
+    "maintainer": [
+        "ronnywang@gmail.com"
+    ]
+}
