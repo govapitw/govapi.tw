@@ -1,0 +1,12 @@
+{
+    "domains": {
+        "govapi.tw" : [
+            ["A", "192.30.252.153"],
+            ["A", "192.30.252.154"]
+        ]
+    },
+    "repository": "https://github.com/govapitw/govapi.tw",
+    "maintainer": [
+        "ronnywang@gmail.com"
+    ]
+}
