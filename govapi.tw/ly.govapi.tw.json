@@ -1,0 +1,42 @@
+{
+    "domains": {
+        "6podj774ysem5nwthwgf2cnc2kplbh4d._domainkey.ly.govapi.tw": [
+            [
+                "CNAME",
+                "6podj774ysem5nwthwgf2cnc2kplbh4d.dkim.amazonses.com"
+            ]
+        ],
+        "_amazonses.ly.govapi.tw": [
+            [
+                "TXT",
+                "HCs8HbA9cgretwp6xMdUDou5Yu3C39WFY5uT6enSBMw="
+            ]
+        ],
+        "eutfnesxh4gilvsucuey5nbeyt4uqgee._domainkey.ly.govapi.tw": [
+            [
+                "CNAME",
+                "eutfnesxh4gilvsucuey5nbeyt4uqgee.dkim.amazonses.com"
+            ]
+        ],
+        "jmfv2ffsalq2syvxvsu6dqopxjkdnakh._domainkey.ly.govapi.tw": [
+            [
+                "CNAME",
+                "jmfv2ffsalq2syvxvsu6dqopxjkdnakh.dkim.amazonses.com"
+            ]
+        ],
+        "ly.govapi.tw": [
+            [
+                "MX",
+                "inbound-smtp.us-east-1.amazonaws.com"
+            ],
+            [
+                "TXT",
+                "amazonses:HCs8HbA9cgretwp6xMdUDou5Yu3C39WFY5uT6enSBMw="
+            ]
+        ]
+    },
+    "repository": "https://github.com/ronnywang/misq.ly.govapi.tw",
+    "maintainer": [
+        "ronnywang"
+    ]
+}
