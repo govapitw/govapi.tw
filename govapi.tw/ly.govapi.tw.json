@@ -27,7 +27,8 @@
         "ly.govapi.tw": [
             [
                 "MX",
-                "inbound-smtp.us-east-1.amazonaws.com"
+                "inbound-smtp.us-east-1.amazonaws.com",
+                10
             ],
             [
                 "TXT",
