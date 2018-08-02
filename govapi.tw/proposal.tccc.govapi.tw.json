@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "proposal.tccc.govapi.tw": [
+            [
+                "CNAME",
+                "taitung-wei-726182.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/ronnywang/proposal.tccc.govapi.tw",
+    "maintainer": [
+        "ronnywang"
+    ]
+}
